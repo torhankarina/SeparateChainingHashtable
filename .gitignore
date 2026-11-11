@@ -628,3 +628,4 @@ MigrationBackup/
 .ionide/
 
 # End of https://www.toptal.com/developers/gitignore/api/git,macos,emacs,cmake,windows,linux,netbeans,eclipse,xcode,visualstudio,visualstudiocode
+.idea/
